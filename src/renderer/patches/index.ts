@@ -5,6 +5,7 @@
  */
 
 // TODO: Possibly auto generate glob if we have more patches in the future
+import "./advancedSettings";
 import "./enableNotificationsByDefault";
 import "./platformClass";
 import "./hideSwitchDevice";
